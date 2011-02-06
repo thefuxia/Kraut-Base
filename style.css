@@ -45,33 +45,99 @@ table
 	float:				right;
 	margin:				0 0 10px 10px;
 }
-.wp-caption
-{
-}
-.wp-caption-text
-{
-}
-.wp-smiley
-{
-}
-.gallery
-{
-}
-.gallery dl
-{
-}
-.gallery dt
-{
-}
-.gallery dd
-{
-}
-.gallery dl a
-{
-}
-.gallery dl img
-{
-}
-.gallery-caption
-{
-}
+
+.sticky {}
+
+.wp-post-image {}
+
+.wp-caption {}
+.wp-caption-text {}
+
+.wp-smiley {}
+
+.gallery {}
+.gallery dl {}
+.gallery dt {}
+.gallery dd {}
+.gallery dl a {}
+.gallery dl img {}
+.gallery-caption {}
+
+.more-link  {}
+
+/* Widgets */
+.widget  {}
+.widget_links {}
+.widget_meta {}
+.widget_pages {}
+.widget_recent_entries {}
+.widget_archive {}
+.widget_tag_cloud {}
+.widget_calendar {}
+#calendar_wrap {}
+#calendar_wrap th {}
+#calendar_wrap td {}
+#wp-calendar tr td {}
+#wp-calendar caption {}
+#wp-calendar a {}
+#wp-calendar #today {}
+#wp-calendar #prev {}
+#wp-calendar #next {}
+#wp-calendar #next a {}
+#wp-calendar #prev a {}
+.widget_categories {}
+.recentcomments {}
+.widget_search {}
+.screen-reader-text {}
+.textwidget {}
+.textwidget p {}
+
+
+/* Comment Styles */
+.commentlist .reply {}
+.commentlist .reply a {}
+
+.commentlist .alt {}
+.commentlist .odd {}
+.commentlist .even {}
+.commentlist .thread-alt {}
+.commentlist .thread-odd {}
+.commentlist .thread-even {}
+.commentlist li ul.children .alt {}
+.commentlist li ul.children .odd {}
+.commentlist li ul.children .even {}
+
+.commentlist .vcard {}
+.commentlist .vcard cite.fn {}
+.commentlist .vcard span.says {}
+.commentlist .vcard img.photo {}
+.commentlist .vcard img.avatar {}
+.commentlist .vcard cite.fn a.url {}
+
+.commentlist .comment-meta {} 
+.commentlist .comment-meta a {}
+.commentlist .commentmetadata {}
+.commentlist .commentmetadata a {}
+
+.commentlist .parent {}
+.commentlist .comment {}
+.commentlist .children {}
+.commentlist .pingback {}
+.commentlist .bypostauthor {}
+.commentlist .comment-author {}
+.commentlist .comment-author-admin {}
+
+.commentlist {}
+.commentlist li {}
+.commentlist li p {}
+.commentlist li ul {}
+.commentlist li ul.children li {}
+.commentlist li ul.children li.alt {}
+.commentlist li ul.children li.byuser {}
+.commentlist li ul.children li.comment {}
+.commentlist li ul.children li.depth-1 {}
+.commentlist li ul.children li.bypostauthor {}
+.commentlist li ul.children li.comment-author-admin {}
+
+#cancel-comment-reply {}
+#cancel-comment-reply a {}

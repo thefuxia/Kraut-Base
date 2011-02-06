@@ -6,8 +6,72 @@ Author:        Thomas Scholz
 Author URI:    http://toscho.de/
 Author E-Mail: info@toscho.com
 Tags:          two-columns, flexible-width, custom-menu, editor-style, threaded-comments, sticky-post, translation-ready
-
+License:       GPL
+License URI:   http://www.gnu.org/licenses/gpl.html
 
 @todo
-
+	- rtl.css
 */
+body,
+blockquote,
+form,
+li,
+.gallery dl
+{
+	margin:				0;
+}
+ol,
+ul,
+dl,
+p, 
+address,
+table
+{
+	margin:				1em 0;
+}
+.aligncenter
+{
+	display:			block;
+	margin-left:		auto;
+	margin-right:		auto;
+}
+.alignleft 
+{
+	float:				left;
+	margin:				0 10px 10px 0;
+}
+.alignright 
+{
+	float:				right;
+	margin:				0 0 10px 10px;
+}
+.wp-caption
+{
+}
+.wp-caption-text
+{
+}
+.wp-smiley
+{
+}
+.gallery
+{
+}
+.gallery dl
+{
+}
+.gallery dt
+{
+}
+.gallery dd
+{
+}
+.gallery dl a
+{
+}
+.gallery dl img
+{
+}
+.gallery-caption
+{
+}
